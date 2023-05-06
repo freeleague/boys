@@ -1,4 +1,4 @@
-TOKEN = "сюда токен бота"
+TOKEN = "5850547960:AAGiLuw5-biVecyCZh_4WGg8H_aTleBNmqs"
 
 def get_start(id):
     return f"""
